@@ -1,4 +1,12 @@
 {
-  "version": "2026-07-16T19:17:54.324Z",
-  "sold": []
+  "version": "2026-07-16T19:25:12.829Z",
+  "sold": [
+    {
+      "number": 9,
+      "buyer": "Juan S.",
+      "city": "Villanueva Casanare",
+      "purchasedAt": "2026-07-16T19:24:20.244Z",
+      "verifiedAt": "2026-07-16T19:25:12.801Z"
+    }
+  ]
 }
