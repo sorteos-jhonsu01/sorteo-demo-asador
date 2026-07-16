@@ -1,2 +1,28 @@
-# sorteo-demo-asador
-Estado publico del sorteo: Ahumador y Barril Asador
+# Ahumador y Barril Asador
+
+Estado **público** de este sorteo. Publicado automáticamente por el backend del
+framework [Sorteos y Rifas](https://github.com/jhonsu01/PlataformasSorteosYRifas).
+
+| | |
+| --- | --- |
+| Premio | Ahumador y Barril Asador hasta 15 personas InGrill plateado |
+| Precio por número | 5.000 COP |
+| Rango | 1–999 |
+
+## Archivos
+
+- `public/raffle.json` — configuración del sorteo.
+- `public/numbers.json` — números vendidos.
+- `public/draw.json` — ganador (cuando se declara).
+
+## Transparencia
+
+Cada venta y la declaración del ganador quedan como un **commit**. El historial de
+este repositorio es la cronología completa y verificable del sorteo: nadie puede
+reescribir el pasado sin que quede rastro.
+
+## Privacidad
+
+Por diseño aquí **solo** se publica, por número vendido: nombre + inicial del
+apellido, el número y las marcas de tiempo de compra y verificación.
+Nunca se publica documento, teléfono, correo, dirección ni el comprobante de pago.
