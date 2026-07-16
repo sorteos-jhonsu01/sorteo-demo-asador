@@ -15,10 +15,27 @@
   "minSoldToDraw": 100,
   "status": "ACTIVE",
   "winner": null,
-  "media": {},
-  "prizeItems": [],
-  "prizeTotalCents": 0,
-  "theme": {},
+  "media": {
+    "cover": "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-asador/main/public/media/26dcce0bc22a8124.jpg",
+    "gallery": [
+      "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-asador/main/public/media/12392968fb7a18b2.jpg",
+      "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-asador/main/public/media/6c2d83bb1e00cb54.jpg"
+    ],
+    "youtubeId": "5FwvBTjopAQ"
+  },
+  "prizeItems": [
+    {
+      "name": "Ahumador y Barril Asador",
+      "featured": false,
+      "imageUrl": "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-asador/main/public/media/12392968fb7a18b2.jpg",
+      "valueCents": 23200000,
+      "description": "InGrill plateado"
+    }
+  ],
+  "prizeTotalCents": 23200000,
+  "theme": {
+    "accent": "#0ea5e9"
+  },
   "organizer": {
     "name": "Influencer local",
     "regime": "DESCENTRALIZADA"
