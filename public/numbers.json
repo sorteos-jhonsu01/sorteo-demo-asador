@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-22T00:46:35.214Z",
+  "version": "2026-07-22T00:55:37.175Z",
   "sold": [
     {
       "number": 9,
@@ -7,6 +7,13 @@
       "city": "Villanueva Casanare",
       "purchasedAt": "2026-07-16T19:24:20.244Z",
       "verifiedAt": "2026-07-16T19:25:12.801Z"
+    },
+    {
+      "number": 29,
+      "buyer": "Andrea R.",
+      "city": "Bucaramanga",
+      "purchasedAt": "2026-07-22T00:50:52.859Z",
+      "verifiedAt": "2026-07-22T00:55:37.162Z"
     },
     {
       "number": 34,
