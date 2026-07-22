@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-22T00:36:02.906Z",
+  "version": "2026-07-22T00:40:28.999Z",
   "sold": [
     {
       "number": 9,
@@ -14,6 +14,34 @@
       "city": "Bogotá",
       "purchasedAt": "2026-07-21T21:35:42.491Z",
       "verifiedAt": "2026-07-22T00:36:02.874Z"
+    },
+    {
+      "number": 72,
+      "buyer": "Catalina B.",
+      "city": "Yopal",
+      "purchasedAt": "2026-07-22T00:37:58.079Z",
+      "verifiedAt": "2026-07-22T00:40:28.963Z"
+    },
+    {
+      "number": 89,
+      "buyer": "Catalina B.",
+      "city": "Yopal",
+      "purchasedAt": "2026-07-22T00:37:58.079Z",
+      "verifiedAt": "2026-07-22T00:40:28.963Z"
+    },
+    {
+      "number": 106,
+      "buyer": "Catalina B.",
+      "city": "Yopal",
+      "purchasedAt": "2026-07-22T00:37:58.079Z",
+      "verifiedAt": "2026-07-22T00:40:28.963Z"
+    },
+    {
+      "number": 123,
+      "buyer": "Catalina B.",
+      "city": "Yopal",
+      "purchasedAt": "2026-07-22T00:37:58.079Z",
+      "verifiedAt": "2026-07-22T00:40:28.963Z"
     }
   ]
 }
