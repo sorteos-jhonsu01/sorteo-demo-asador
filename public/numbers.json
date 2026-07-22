@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-22T00:40:28.999Z",
+  "version": "2026-07-22T00:46:35.214Z",
   "sold": [
     {
       "number": 9,
@@ -14,6 +14,69 @@
       "city": "Bogotá",
       "purchasedAt": "2026-07-21T21:35:42.491Z",
       "verifiedAt": "2026-07-22T00:36:02.874Z"
+    },
+    {
+      "number": 47,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
+    },
+    {
+      "number": 48,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
+    },
+    {
+      "number": 49,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
+    },
+    {
+      "number": 52,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
+    },
+    {
+      "number": 53,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
+    },
+    {
+      "number": 54,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
+    },
+    {
+      "number": 57,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
+    },
+    {
+      "number": 58,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
+    },
+    {
+      "number": 59,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
     },
     {
       "number": 72,
@@ -42,6 +105,13 @@
       "city": "Yopal",
       "purchasedAt": "2026-07-22T00:37:58.079Z",
       "verifiedAt": "2026-07-22T00:40:28.963Z"
+    },
+    {
+      "number": 400,
+      "buyer": "Carlos C.",
+      "city": "Tunja",
+      "purchasedAt": "2026-07-22T00:45:40.307Z",
+      "verifiedAt": "2026-07-22T00:46:35.188Z"
     }
   ]
 }
