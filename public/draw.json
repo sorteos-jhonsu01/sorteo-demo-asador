@@ -1,0 +1,13 @@
+{
+  "raffleSlug": "sorteo-demo-asador",
+  "drawnAt": "2026-11-03T00:46:24.540Z",
+  "winningNumber": 72,
+  "mechanism": "RANDOM_FROM_SOLD",
+  "winner": {
+    "number": 72,
+    "buyer": "Catalina B.",
+    "purchasedAt": "2026-07-22T00:37:58.079Z",
+    "verifiedAt": "2026-07-22T00:40:28.963Z"
+  },
+  "status": "VALID"
+}
